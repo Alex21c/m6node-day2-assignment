@@ -1,4 +1,4 @@
-# mlcToDoPrjTitle
+# Day 2 Assignment (Node Js Module #6 MERN Stack)
 ![](thumbnail.png)
 
 ## Objectives
@@ -11,7 +11,7 @@ Using FS and path Module and readline Implement the following operations:
 ## How to install and run in yours local machine
 ```bash
 npm install
-npm run start
+npm start
 ```
 
 ## Tech. Stack Used:
