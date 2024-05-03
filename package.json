@@ -1,0 +1,25 @@
+{
+  "name": "m6node-day2-assignment",
+  "version": "1.0.0",
+  "description": "Geekster Day 2 Assignment for Module #6 Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "clear && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex21c/m6node-day2-assignment.git"
+  },
+  "keywords": [
+    "node.js",
+    "assignment",
+    "geekster"
+  ],
+  "author": "Abhishek kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alex21c/m6node-day2-assignment/issues"
+  },
+  "homepage": "https://github.com/Alex21c/m6node-day2-assignment#readme"
+}
